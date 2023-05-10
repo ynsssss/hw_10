@@ -1,0 +1,17 @@
+linters:
+  enable:
+    - dupl
+    - decorder
+    - nilnil
+    - reassign
+    - whitespace
+    - lll 
+    - makezero 
+    - musttag 
+    - nakedret
+    - nestif
+    - nilerr
+    - nolintlint
+    - nonamedreturns
+    - nosprintfhostport
+    - predeclared
